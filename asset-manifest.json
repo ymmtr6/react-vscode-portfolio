@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-vscode-portfolio/static/js/main.aa7910d5.js",
+    "main.js": "/react-vscode-portfolio/static/js/main.68c439fe.js",
     "static/js/787.df5e1d3a.chunk.js": "/react-vscode-portfolio/static/js/787.df5e1d3a.chunk.js",
     "static/media/favicon.png": "/react-vscode-portfolio/static/media/favicon.0c0610f6f7f0d3076262.png",
     "index.html": "/react-vscode-portfolio/index.html",
-    "main.aa7910d5.js.map": "/react-vscode-portfolio/static/js/main.aa7910d5.js.map",
+    "main.68c439fe.js.map": "/react-vscode-portfolio/static/js/main.68c439fe.js.map",
     "787.df5e1d3a.chunk.js.map": "/react-vscode-portfolio/static/js/787.df5e1d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa7910d5.js"
+    "static/js/main.68c439fe.js"
   ]
 }
