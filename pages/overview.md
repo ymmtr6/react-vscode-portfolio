@@ -1,5 +1,9 @@
 # 📖 Overview
 
+フロントエンド／バックエンドエンジニアの山本 陸です。
+学生時代は深層学習で画像分類や物体検出を用いた医療画像などへの応用、深層学習基盤の運用、構築を行なっていました。
+社会人になってからは検索の Web フロントエンド／バックエンドエンジニアとして 1 年間活動し、現在は ID 領域のエンジニアとして働いています。
+
 ## 所属
 
 - ヤフー株式会社 サービス統括本部 エンジニア
@@ -37,6 +41,11 @@
 - Java/Kotlin
   - SpringBoot
 
+### Certificates
+
+- 応用情報技術者/基本情報技術者
+- CCNA(Cisco Certified Network Associate) ※期限切れ
+
 ## Products
 
 ### QABot
@@ -52,7 +61,7 @@ PC でスマホビューを再現したかったので適当に動くアプリ�
 
 PDF の文書管理を行うために自作したセルフホスティング用の文書管理。Calibre がちょっと合わなかったので Typescript/Nextjs で自作(開発中)
 
-## Certificates
+## Awards
 
 - [Internal HackDay19(ヤフー) PayPay 賞](https://about.yahoo.co.jp/info/blog/20220926/internalhackday19.html#anc4)
 
