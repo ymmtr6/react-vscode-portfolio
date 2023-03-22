@@ -4,7 +4,7 @@
 
 - ヤフー株式会社 サービス統括本部 エンジニア
 
-## 略歴 - Biography
+## Biography
 
 `2012-2015` 大阪府立高槻北高等学校 普通科
 
@@ -36,6 +36,21 @@
   - Vue.js/Nuxt.js
 - Java/Kotlin
   - SpringBoot
+
+## Products
+
+### QABot
+
+大学の講義で教員・TA の学生サポート業務をアシストする SlackApp を構築、運用
+[SlackBot でオンライン質問対応システムを構築した話](https://qiita.com/ymmtr6/items/bb53d675a022de5328a1)
+
+### サイゼリヤガチャ PWA
+
+PC でスマホビューを再現したかったので適当に動くアプリを 3 時間くらいで自作 [Page](https://ymmtr6.github.io/saizeriya-gacha/)
+
+### Candle
+
+PDF の文書管理を行うために自作したセルフホスティング用の文書管理。Calibre がちょっと合わなかったので Typescript/Nextjs で自作
 
 ## Certificates
 
