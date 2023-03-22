@@ -50,8 +50,12 @@ PC でスマホビューを再現したかったので適当に動くアプリ�
 
 ### Candle
 
-PDF の文書管理を行うために自作したセルフホスティング用の文書管理。Calibre がちょっと合わなかったので Typescript/Nextjs で自作
+PDF の文書管理を行うために自作したセルフホスティング用の文書管理。Calibre がちょっと合わなかったので Typescript/Nextjs で自作(開発中)
 
 ## Certificates
 
 - [Internal HackDay19(ヤフー) PayPay 賞](https://about.yahoo.co.jp/info/blog/20220926/internalhackday19.html#anc4)
+
+## Contacts
+
+ymmtr6.works\[at\]gmail.com
