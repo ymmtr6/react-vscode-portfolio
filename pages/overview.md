@@ -46,7 +46,7 @@
 
 ### サイゼリヤガチャ PWA
 
-PC でスマホビューを再現したかったので適当に動くアプリを 3 時間くらいで自作 [Page](https://ymmtr6.github.io/saizeriya-gacha/)
+PC でスマホビューを再現したかったので適当に動くアプリを 3 時間くらいで作成 [Github](https://ymmtr6.github.io/saizeriya-gacha/)
 
 ### Candle
 
