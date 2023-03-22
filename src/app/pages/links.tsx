@@ -3,6 +3,9 @@ import {
   FaLinkedin,
   FaTwitter,
 } from "react-icons/fa";
+import {
+  SiQiita
+} from "react-icons/si";
 
 export const links = [
   {
@@ -22,6 +25,12 @@ export const links = [
     title: "Twitter",
     href: "https://twitter.com/_milktea6",
     icon: <FaTwitter />
+  },
+  {
+    index: 3,
+    title: "Qiita",
+    href: "https://qiita.com/ymmtr6",
+    icon: <SiQiita />
   }
   // {
   //   index: 2,
